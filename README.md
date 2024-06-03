@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me through teams.
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
 <!---
