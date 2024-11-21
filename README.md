@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @FloT28
+- 👋 Hi, I’m Florence
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on Github
-- 📫 How to reach me through teams.
 - ⚡ Fun fact: ...
 
 <!---
