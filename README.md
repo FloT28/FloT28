@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Florence
 - 👀 I’m interested in Cloud...
 - 🌱 I’m currently learning Cloud Computing! 
-- 💞️ I’m looking to collaborate on Github
+-  I’m looking to collaborate on Github
 - ⚡ Fun fact: I...
 
 <!---
