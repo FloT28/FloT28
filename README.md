@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Florence
-- 👀 I’m interested in Cloud...
-- 🌱 I’m currently learning Cloud Computing and growing more skills in Software Engineering!
--  I’m looking to collaborate on Github
+- 👋 Hi, I’m Florence a current software engineering student.
+- 👀 I’m interested in Cloud and also coding like Python, C++ and also front-end which includes CSS/HTML and also learning towards Bootstrap as well. 
+- 🌱 I’m currently learning Cloud Computing and seeking to learn more skills in Software Engineering!
 
 
 <!---
